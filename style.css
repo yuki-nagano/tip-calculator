@@ -1,0 +1,111 @@
+
+h1 {
+  /* color: white; */
+}
+
+h3 {
+  /* color : white; */
+  display: inline-block;
+}
+
+body {
+  background: white;
+  font-family: serif;
+  font-size: 14px;
+}
+
+.reciept {
+  width: 300px;
+  height: 700px;
+  border: 2px solid black;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+}
+
+li {
+    list-style: none;
+    font-size: 13px;
+}
+
+#leftside {
+  display: inline-block;
+  margin-left: 30px;
+  text-align: left;
+}
+
+#rightside {
+  display: inline-block;
+  text-align: left;
+  margin-left : 90px;
+}
+
+#subtotal {
+  display: inline-block;
+  margin-left: 0;
+}
+
+#dollar {
+  margin-left : 95px;
+  display: inline-block;
+
+}
+#calculate {
+  background: #8fbc8f;
+  color: white;
+  border-radius: 5px;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 4px 0 #6b8e23;
+  margin-left: 180px;
+  margin-top: 8px;
+
+
+  /* width: 200px;
+  background: #8fbc8f;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 4px 0 #6b8e23;
+  margin-left: 10px;
+  margin-top: 15px; */
+}
+
+input {
+  width: 40px;
+  height: 25px;
+  border-radius: 5px;
+  margin: 5px 5px 5px 5px;
+}
+
+#tipPercent {
+  /* width: 205px; */
+  height: 25px;
+  border-radius: 5px;
+  margin: 0px 20px 5px 60px;
+}
+
+#result {
+  color: black;
+  margin-top: 10px;
+  margin-right: 60px;
+  text-align: right;
+}
+
+#footer {
+  text-align: center;
+}
+#total {
+  /* color : black;
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+  margin: 10px 5px 5px 10px; */
+  /* 上 右　下　左　*/
+}
